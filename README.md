@@ -1,7 +1,7 @@
 ## ✨ About Me
 
 - 🎓 Computer Science student & aspiring AI engineer  
-- 🚀 From React frontend + Spring backend → now diving into AI, ML & Deep Learning  
+- 🚀 From React frontend + Spring backend → now diving into AI, ML & DL 
 - 🌱 Currently exploring LangChain, FastAPI, PyTorch, and building real AI projects
 
 ## 🛠 Tech Stack
